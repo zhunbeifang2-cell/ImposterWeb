@@ -1,0 +1,4 @@
+* text=auto eol=lf
+/site/** -text
+*.wasm binary
+*.data binary
